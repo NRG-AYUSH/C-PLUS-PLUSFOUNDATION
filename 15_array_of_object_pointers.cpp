@@ -28,7 +28,7 @@ int main()
     team[1] = new Employee(207, 100000.02, "SNEHA");
     team[2] = new Employee(154, 10000.02, "HEHE");
     team[3] = new Employee(123, 10000.02, "HURRR");
-    cout << "=== Employees with Salary > 50,000 ===" << endl;
+    cout << "=== Employees withㅤSalary > 50,000 ===" << endl;
     for (int i = 0; i < 3; i++)
     {
         // Arrow operator and getter used
